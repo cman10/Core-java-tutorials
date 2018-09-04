@@ -5,7 +5,7 @@ I will be sharing n number of projects during my learning and hope someone gains
 
  list of codes shared :
 
-1. static metjod , class in java 
+1. static method , class in java 
 2. access specifiers in java 
 3. overloading overriding in java 
 4. return method in java .
